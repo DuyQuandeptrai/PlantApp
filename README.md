@@ -1,16 +1,24 @@
-# plantapp
+# 🌱 Plant App UI
 
-A new Flutter project.
+Giao diện ứng dụng di động (Flutter) về cây cảnh, thiết kế tập trung vào **trải nghiệm người dùng (UX)** và **giao diện người dùng (UI)** thân thiện, hiện đại.
 
-## Getting Started
+## 📱 Demo
 
-This project is a starting point for a Flutter application.
+<img src="assets\images\Screenshot 2025-05-26 001502.png" width="200">
+<img src="assets\images\Screenshot 2025-05-26 001515.png" width="200">
+<img src="assets\images\Screenshot 2025-05-26 001618.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Tính năng chính
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Giao diện danh sách cây cảnh
+- Chi tiết sản phẩm
+- Trang giỏ hàng có thể tăng/giảm số lượng
+- Thiết kế hiện đại theo xu hướng material design
+- Responsive layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Công nghệ sử dụng
+
+- Flutter
+- Dart
+- Figma (thiết kế ban đầu)
+- GitHub
