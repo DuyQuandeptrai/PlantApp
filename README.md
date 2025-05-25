@@ -4,9 +4,9 @@ Giao diện ứng dụng di động (Flutter) về cây cảnh, thiết kế t�
 
 ## 📱 Demo
 
-<img src="assets\images\Screenshot 2025-05-26 001502.png" width="200">
-<img src="assets\images\Screenshot 2025-05-26 001515.png" width="200">
-<img src="assets\images\Screenshot 2025-05-26 001618.png" width="200">
+<img src="assets/images/Screenshot 2025-05-26 001502.png" width="200">
+<img src="assets/images/Screenshot 2025-05-26 001515.png" width="200">
+<img src="assets/images/Screenshot 2025-05-26 001618.png" width="200">
 
 ## ✨ Tính năng chính
 
